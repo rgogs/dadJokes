@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #686de0;
+    background-color: #e0a068;
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
@@ -43,7 +43,7 @@ h3{
 }
 
 .btn{
-    background-color: #9F68E0;
+    background-color: #e09068;
     border:0;
     border-radius: 10px;
     color: #fff;
@@ -62,7 +62,7 @@ h3{
 }
 .btn:hover,
 .btn:focus {
-    color:black;
+    color:rgb(254, 64, 0);
     animation: pulse 1s;
     box-shadow: 0 0 0 2em transparent;
 }
